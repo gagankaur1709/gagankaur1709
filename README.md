@@ -125,6 +125,10 @@
 
 <hr>
 
+### Data Stream Meditations
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<hr>
 <p align="center">
   System Deactivating... <br>
     Protocol Complete. Data secure. Engage further at will.
