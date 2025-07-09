@@ -122,8 +122,8 @@
 <hr>
 
 <p align="center">
-  The digital realm holds endless possibilities.<br>
-  Let's forge the future, one byte, one dream at a time.
+  System Deactivating... <br>
+    Protocol Complete. Data secure. Engage further at will.
 </p>
 
 <p align="center">
