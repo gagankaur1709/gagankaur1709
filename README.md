@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/Intro.gif" alt="Introduction" width="50%" style="max-width: 50%; display: inline-block;">
 </p>
+<hr>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gagandeep-kaur-a56167197" style="text-decoration: none;">
@@ -23,3 +24,11 @@
   <img height="50" src="assets/Leetcode.png" alt="LeetCode Profile"/>
 </a>
 </p>
+<hr>
+
+### 🚀 Welcome to My Digital Sanctum!
+Konnichiwa! I am Gagandeep Kaur, a denizen of the digital frontier, where the future of technology is forged. My passion lies at the intersection of Artificial Intelligence and Software Engineering, crafting intelligent systems that transcend the boundaries of imagination.
+
+--- 
+
+
