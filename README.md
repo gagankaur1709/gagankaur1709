@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gagankaur1709" alt="GitHub visitor"/>
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/gagandeep-kaur-a56167197" style="text-decoration: none;">
   <img height="50" src="assets/linkedin-tile.svg" alt="LinkedIn Profile"/>
 </a>
