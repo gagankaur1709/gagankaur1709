@@ -31,4 +31,86 @@ Konnichiwa! I am Gagandeep Kaur, a denizen of the digital frontier, where the fu
 
 --- 
 
+### 🧠 My Digital Footprint
 
+```json
+{
+  "name": "Gagandeep Kaur",
+  "located_in": "Birmingham, UK",
+  "current_position": "Postgraduate Student, MSc Advanced Computer Science",
+  "university": "University of Birmingham",
+  "previous_roles": [
+    "Software Development Engineer at Sixt R&D",
+    "Software Development Engineer Intern at Sixt R&D",
+    "Event Coordinator & Student Representative"
+  ],
+  "ai_ml_experience": [
+    "Machine Learning Fundamentals",
+    "Natural Language Processing",
+    "Classification & Recommendation Systems",
+    "ML Model Evaluation",
+    "Prompt Engineering & Test Case Generation"
+  ],
+  "concepts": [
+    "Distributed Systems", "System Design", "Microservices",
+    "CI/CD", "Event-driven Architecture", "OOP", "Concurrency", 
+    "Integration Testing", "Advanced Networking", "AI for SE",
+    "Human Computer Interaction", "Designing Secure systems"
+  ],
+  "current_learning": [
+    "Advanced ML Algorithms", "Cloud-Native Applications", "Prompt-driven Software Testing"
+  ],
+  "career_interests": [
+    "Backend Engineering", "AI-Powered Applications", "System Architecture",
+    "Tech for Social Good", "Personalization & Recommendation Systems"
+  ],
+  "soft_skills": [
+    "Cross-functional Collaboration",
+    "Public Speaking",
+    "Communication with Diverse Audiences"
+  ],
+  "notable_projects": [
+    "Matching Algorithm for Study Buddy App (Hackathon Winner)",
+    "Fault Tolerant Java RMI System (Literature Review)",
+    "Bug Classification with ML (Academic Project)"
+  ],
+  "fun_facts": [
+    "Spotify Power User",
+    "Enjoys working on real-world problems using technology",
+    "Loves to cook and experiment in the kitchen",
+    "Dancer at heart – it’s her favourite stress-buster",
+    "Regular at the gym – fitness keeps her focused",
+    "Loves to code and build things that make life easier"
+  ]
+}
+
+```
+
+### Some Tools I Have Used and Learned
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="cLang" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+
+
+
+</p>
