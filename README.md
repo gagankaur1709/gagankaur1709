@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Intro.gif" alt="Introduction" style="max-width: 25%">
+  <img src="assets/Intro.gif" alt="Introduction" style="max-width: 50%; display: inline-block;">
 </p>
 
 <p align="center">
