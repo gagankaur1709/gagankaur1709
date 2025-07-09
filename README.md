@@ -3,22 +3,19 @@
 </p>
 
 <p align="center">
-<a href="www.linkedin.com/in/gagandeep-kaur-a56167197">
-  <img height="50" src="assets/LinkedIn.png"/>
+<a href="https://www.linkedin.com/in/gagandeep-kaur-a56167197" style="text-decoration: none;">
+  <img height="50" src="assets/LinkedIn.png" alt="LinkedIn Profile"/>
 </a>
-<a href="gagankaur1709@gmail.com">
-  <img height="50" src="assets/email.png"/>
+<a href="mailto:gagankaur1709@gmail.com" style="text-decoration: none;">
+  <img height="50" src="assets/email.png" alt="Email Me"/>
 </a>
-<a href="https://medium.com/the-sixt-india-blog/introduction-to-test-containers-the-beginners-guide-dd1760f918a2">
-  <img height="50" src="assets/medium.png"/>
+<a href="https://medium.com/the-sixt-india-blog/introduction-to-test-containers-the-beginners-guide-dd1760f918a2" style="text-decoration: none;">
+  <img height="50" src="assets/medium.png" alt="Medium Blog"/>
 </a>
-<a href="https://devpost.com/gagankaur1709">
-  <img height="50" src="assets/dev.png"/>
+<a href="https://devpost.com/gagankaur1709" style="text-decoration: none;">
+  <img height="50" src="assets/dev.png" alt="Devpost Profile"/>
 </a>
-<a href="https://medium.com/the-sixt-india-blog/introduction-to-test-containers-the-beginners-guide-dd1760f918a2">
-  <img height="50" src="assets/medium.png"/>
-</a>
-<a href="https://leetcode.com/u/gaganKaur/">
-  <img height="50" src="assets/Leetcode.png"/>
+<a href="https://leetcode.com/u/gaganKaur/" style="text-decoration: none;">
+  <img height="50" src="assets/Leetcode.png" alt="LeetCode Profile"/>
 </a>
 </p>
