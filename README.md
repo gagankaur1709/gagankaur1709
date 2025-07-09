@@ -118,3 +118,14 @@
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=gagankaur1709&show_icons=true&theme=radical">
 </p>
+
+<hr>
+
+<p align="center">
+  The digital realm holds endless possibilities.<br>
+  Let's forge the future, one byte, one dream at a time.
+</p>
+
+<p align="center">
+  <img src="assets/LogOff.gif" alt="LogOff" width="50%" style="max-width: 50%; display: inline-block;">
+</p>
