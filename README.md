@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/Intro.gif" alt="Introduction" width="50%" style="max-width: 50%; display: inline-block;">
 </p>
-<hr>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gagandeep-kaur-a56167197" style="text-decoration: none;">
@@ -27,7 +26,7 @@
 <hr>
 
 ### 🚀 Welcome to My Digital Sanctum!
-Konnichiwa! I am Gagandeep Kaur, a denizen of the digital frontier, where the future of technology is forged. My passion lies at the intersection of Artificial Intelligence and Software Engineering, crafting intelligent systems that transcend the boundaries of imagination.
+<p align="center">Konnichiwa! I am Gagandeep Kaur, a denizen of the digital frontier, where the future of technology is forged. My passion lies at the intersection of Artificial Intelligence and Software Engineering, crafting intelligent systems that transcend the boundaries of imagination.</p>
 
 --- 
 
@@ -85,17 +84,16 @@ Konnichiwa! I am Gagandeep Kaur, a denizen of the digital frontier, where the fu
 }
 
 ```
+<hr>
 
 ### Some Tools I Have Used and Learned
 <p align="left">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="cLang" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
@@ -104,13 +102,14 @@ Konnichiwa! I am Gagandeep Kaur, a denizen of the digital frontier, where the fu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
 
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </p>
+
+<hr>
+
+### 📝 Publications
+[1. Geriatric Agility Detection: Computer Vision System with Python and OpenCV](https://journals.ijramt.com/index.php/ijramt/article/view/1957)
+[2. Geriatric Agility Detection: Implementation using MediaPipe Pose](https://journals.ijramt.com/index.php/ijramt/article/view/2223)
