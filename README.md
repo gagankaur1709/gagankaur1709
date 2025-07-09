@@ -113,3 +113,8 @@
 ### 📝 Publications
 * [Geriatric Agility Detection: Computer Vision System with Python and OpenCV](https://journals.ijramt.com/index.php/ijramt/article/view/1957)
 * [Geriatric Agility Detection: Implementation using MediaPipe Pose](https://journals.ijramt.com/index.php/ijramt/article/view/2223)
+
+<hr>
+<p align="center">
+[![spotify-github-profile](https://spotify-github-profile.kittinan.xyz/api/view?uid=b00okpxrugm5ppk03wxbfw4p1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</p>
