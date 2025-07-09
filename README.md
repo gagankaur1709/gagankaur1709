@@ -115,6 +115,5 @@
 * [Geriatric Agility Detection: Implementation using MediaPipe Pose](https://journals.ijramt.com/index.php/ijramt/article/view/2223)
 
 <hr>
-<p align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=b00okpxrugm5ppk03wxbfw4p1&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=b00okpxrugm5ppk03wxbfw4p1&redirect=true)
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=b00okpxrugm5ppk03wxbfw4p1&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=b00okpxrugm5ppk03wxbfw4p1&redirect=false)
+
