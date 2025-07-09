@@ -111,5 +111,5 @@
 <hr>
 
 ### 📝 Publications
-[1. Geriatric Agility Detection: Computer Vision System with Python and OpenCV](https://journals.ijramt.com/index.php/ijramt/article/view/1957)
-[2. Geriatric Agility Detection: Implementation using MediaPipe Pose](https://journals.ijramt.com/index.php/ijramt/article/view/2223)
+* [Geriatric Agility Detection: Computer Vision System with Python and OpenCV](https://journals.ijramt.com/index.php/ijramt/article/view/1957)
+* [Geriatric Agility Detection: Implementation using MediaPipe Pose](https://journals.ijramt.com/index.php/ijramt/article/view/2223)
