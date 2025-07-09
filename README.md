@@ -4,23 +4,23 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gagandeep-kaur-a56167197" style="text-decoration: none;">
-  <img height="50" src="assets/LinkedIn.png" alt="LinkedIn Profile"/>
+  <img height="50" src="assets/linkedin-tile.svg" alt="LinkedIn Profile"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds four non-breaking spaces for spacing -->
+&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="mailto:gagankaur1709@gmail.com" style="text-decoration: none;">
-  <img height="50" src="assets/email.png" alt="Email Me"/>
+  <img height="50" src="assets/gmail-tile.svg" alt="Email Me"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/the-sixt-india-blog/introduction-to-test-containers-the-beginners-guide-dd1760f918a2" style="text-decoration: none;">
-  <img height="50" src="assets/medium.png" alt="Medium Blog"/>
+  <img height="50" src="assets/medium-tile.svg" alt="Medium Blog"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://devpost.com/gagankaur1709" style="text-decoration: none;">
-  <img height="50" src="assets/dev.png" alt="Devpost Profile"/>
+  <img height="50" src="assets/devpost-icon.svg" alt="Devpost Profile"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/gaganKaur/" style="text-decoration: none;">
-  <img height="50" src="assets/Leetcode.png" alt="LeetCode Profile"/>
+  <img height="50" src="assets/leetcode.svg" alt="LeetCode Profile"/>
 </a>
 </p>
 <hr>
